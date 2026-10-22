@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bolgarka:item/angle_grinder_diamond"
+  }
+}

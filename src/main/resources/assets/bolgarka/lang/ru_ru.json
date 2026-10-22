@@ -1,0 +1,20 @@
+{
+  "item.bolgarka.angle_grinder": "Болгарка",
+  "item.bolgarka.iron_disc": "Железный диск",
+  "item.bolgarka.golden_disc": "Золотой диск",
+  "item.bolgarka.diamond_disc": "Алмазный диск",
+  "item.bolgarka.saw_disc": "Пильный диск",
+  "item.bolgarka.fire_disc": "Огненный диск",
+  "item.bolgarka.vampire_disc": "Вампирский диск",
+  "item.bolgarka.netherite_disc": "Незеритовый диск",
+  "effect.bolgarka.bleeding": "Кровотечение",
+  "tooltip.bolgarka.damage": "+%s урона",
+  "tooltip.bolgarka.bleed": "Вызывает кровотечение (накапливается)",
+  "tooltip.bolgarka.fire": "Поджигает цель",
+  "tooltip.bolgarka.lifesteal": "Лечит тебя при ударе",
+  "tooltip.bolgarka.xp": "Больше опыта за убийство",
+  "tooltip.bolgarka.wear": "Болгарка изнашивается быстрее",
+  "tooltip.bolgarka.disc_hint": "Болгарка в руке, диск в левой руке, ПКМ",
+  "tooltip.bolgarka.current_disc": "Диск: %s",
+  "tooltip.bolgarka.grinder_hint": "Диск в левой руке + ПКМ = сменить диск"
+}
