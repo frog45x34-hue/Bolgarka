@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NFN",
+    "FDF",
+    "NFN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "D": {
+      "item": "bolgarka:iron_disc"
+    }
+  },
+  "result": {
+    "id": "bolgarka:saw_disc",
+    "count": 1
+  }
+}

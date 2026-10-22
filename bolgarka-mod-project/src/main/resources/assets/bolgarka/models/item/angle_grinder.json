@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bolgarka:item/angle_grinder"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "bolgarka:disc": 0.05
+      },
+      "model": "bolgarka:item/angle_grinder_golden"
+    },
+    {
+      "predicate": {
+        "bolgarka:disc": 0.15
+      },
+      "model": "bolgarka:item/angle_grinder_diamond"
+    },
+    {
+      "predicate": {
+        "bolgarka:disc": 0.25
+      },
+      "model": "bolgarka:item/angle_grinder_saw"
+    },
+    {
+      "predicate": {
+        "bolgarka:disc": 0.35
+      },
+      "model": "bolgarka:item/angle_grinder_fire"
+    },
+    {
+      "predicate": {
+        "bolgarka:disc": 0.45
+      },
+      "model": "bolgarka:item/angle_grinder_vampire"
+    },
+    {
+      "predicate": {
+        "bolgarka:disc": 0.55
+      },
+      "model": "bolgarka:item/angle_grinder_netherite"
+    }
+  ]
+}

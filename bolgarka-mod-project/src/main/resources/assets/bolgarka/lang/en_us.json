@@ -1,0 +1,20 @@
+{
+  "item.bolgarka.angle_grinder": "Angle Grinder",
+  "item.bolgarka.iron_disc": "Iron Disc",
+  "item.bolgarka.golden_disc": "Golden Disc",
+  "item.bolgarka.diamond_disc": "Diamond Disc",
+  "item.bolgarka.saw_disc": "Saw Disc",
+  "item.bolgarka.fire_disc": "Fire Disc",
+  "item.bolgarka.vampire_disc": "Vampire Disc",
+  "item.bolgarka.netherite_disc": "Netherite Disc",
+  "effect.bolgarka.bleeding": "Bleeding",
+  "tooltip.bolgarka.damage": "+%s damage",
+  "tooltip.bolgarka.bleed": "Causes bleeding (stacks)",
+  "tooltip.bolgarka.fire": "Sets targets on fire",
+  "tooltip.bolgarka.lifesteal": "Heals you when you hit",
+  "tooltip.bolgarka.xp": "Extra XP on kill",
+  "tooltip.bolgarka.wear": "Wears the grinder faster",
+  "tooltip.bolgarka.disc_hint": "Hold the grinder, put this in your off-hand, right-click",
+  "tooltip.bolgarka.current_disc": "Disc: %s",
+  "tooltip.bolgarka.grinder_hint": "Disc in off-hand + right-click = swap disc"
+}
